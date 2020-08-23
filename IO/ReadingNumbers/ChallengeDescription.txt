@@ -1,0 +1,6 @@
+Program reads line from text file, one by one.
+
+A class receiving BufferedReader as parameter in constructor shall be created.
+It shall have to methods, each return array of numbers:
+ - first method returns whole numbers from line, other characters are ignored
+ - second method returns decimal numbers from line, other characters are ignored
