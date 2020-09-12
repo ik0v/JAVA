@@ -1,0 +1,8 @@
+Manual TreeMap Challenge 
+
+Code represents binary search tree, or TreeMap.
+Each node is represented with int value, to make data as simple as possible. 
+Data used in tree is illustrated in jpg file.
+Challenge was to write a method which removes node with given value from the tree.
+Search method was corrected as well. 
+BinaryTree class is created to handle cases when root is empty.
